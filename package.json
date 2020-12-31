@@ -1,0 +1,9 @@
+{
+  "name": "smartq",
+  "version": "1.0.0",
+  "description": "SmartQ API Server",
+  "main": "index.js",
+  "repository": "https://github.com/moduslights/smartq-graphql.git",
+  "author": "Moduslights",
+  "license": "MIT"
+}
